@@ -1,4 +1,4 @@
-
+// PLEASE INSTALL NPM MODULE TO VIEW THE WEBSITE 
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import { useState } from "react";
