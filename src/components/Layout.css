@@ -1,0 +1,19 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure the layout fills the viewport */
+  }
+  
+  .hero-container {
+    /* Style the container for the Hero component */
+  }
+  
+  .content {
+    /* Style the main content area */
+    flex: 1; /* Allow content area to grow and fill the available space */
+  }
+  
+  .footer-container {
+    /* Style the container for the Footer component */
+  }
+  

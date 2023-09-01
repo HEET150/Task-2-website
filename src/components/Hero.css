@@ -1,0 +1,27 @@
+
+/* Hero container */
+.hero {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+    color: #343a40;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  /* Logo */
+  .hero-image {
+    width: 250px;
+    height: 250px;
+    margin-left: 40px; /* Add space from left corner */
+    margin-right: 40px;
+  }
+  
+  /* Content */
+  .hero-content {
+    max-width: auto;
+    text-align: center;
+    margin-right: 40px; /* Add space from right side */
+    justify-content: center;
+  }
+  
